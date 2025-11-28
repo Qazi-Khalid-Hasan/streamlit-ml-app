@@ -1,4 +1,6 @@
-streamlit
+streamlit>=1.24
 pandas
+numpy
 scikit-learn
-matplotlib
+pdfplumber
+docx2txt
